@@ -57,8 +57,3 @@ The focus was on discovering vulnerabilities, capturing technical evidence, and 
 
 ---
 
-## 🧩 How to Use This Repository
-
-### 1️⃣ Clone the repository:
-```bash
-git clone https://github.com/<your-username>/Week1_Security_Assessment.git
