@@ -1,4 +1,4 @@
-# 🛡️ Week 1 Security Assessment – OWASP Juice Shop
+# 🛡️ OWASP Juice Shop Security Assessment
 
 This repository contains the complete documentation, evidence, and scan results from a web application security assessment conducted on the **OWASP Juice Shop**.  
 It was performed as part of the **Cybersecurity Internship Program (Week 1)** to demonstrate practical vulnerability analysis, OWASP ZAP usage, and structured technical reporting.
